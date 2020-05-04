@@ -1,0 +1,3 @@
+This is a file that you might have downloaded to go with your sample paper, and may need in the project repository.
+
+Remember, GitHub does not support files larger than 100 MB in size! 50 MB or larger in size will substantially slow your commits.
